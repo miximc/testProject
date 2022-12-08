@@ -13,3 +13,4 @@ elif 16 < time < 24:
 else:
     print('Доброй ночи!')
 
+print('priverka')
