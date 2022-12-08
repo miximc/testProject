@@ -14,3 +14,5 @@ else:
     print('Доброй ночи!')
 
 print('priverka')
+
+print('Priverka v2')
